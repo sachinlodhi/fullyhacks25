@@ -1,0 +1,5 @@
+streamlit==1.32.0
+pillow==10.2.0
+requests==2.31.0
+gradio-client==0.8.1
+python-dotenv==1.0.1
